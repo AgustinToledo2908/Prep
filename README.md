@@ -1,2 +1,5 @@
 # Prep
-Esta es una prueba de como clonar un repositorio de guthub a mi computadora
+
+Esta es una prueba de como clonar un repositorio de github a mi computadora
+
+Agrego segundo commit
