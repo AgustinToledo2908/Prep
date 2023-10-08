@@ -1,2 +1,2 @@
 # Prep
-Este es un repositorio del modulo2 del prep course de Henry
+Esta es una prueba de como clonar un repositorio de guthub a mi computadora
